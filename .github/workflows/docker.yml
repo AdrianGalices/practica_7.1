@@ -34,4 +34,4 @@ jobs:
           push: true
           tags: |
             agalices/practica_7.1:latest
-            ghcr.io/AdrianGalices/practica_7.1:latest
+            ghcr.io/adriangalices/practica_7.1:latest
